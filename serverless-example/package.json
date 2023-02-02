@@ -1,0 +1,12 @@
+{
+  "name": "@twasink/serverless-ts-spike",
+  "description": "A test of using TypeScript in a serverless app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "^2.799.0"
+  }
+  "scripts": {
+  }
+}
+
